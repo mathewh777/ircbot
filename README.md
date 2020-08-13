@@ -1,2 +1,2 @@
 # ircbot
-Does weather, and others 
+Does weather, and others things 
