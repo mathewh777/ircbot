@@ -9,20 +9,15 @@ import requests
 from django.utils.encoding import smart_str, smart_unicode
 from bs4 import BeautifulSoup
 
-#botnick = "PAnicBro"
-#channel = "#Randomchan"
-#server = "irc.evilcorp.ga"
+
 botnick = "Garbagtron" #Bot" + str(random.randint(1,999))
 #botnick = "Encke"
 #FREENODE
-channel = "#karlsLab"
 #channel = "#cafeMEMEMEADasda"
 server = "irc.freenode.net"
 #server = "irc.freenode.net"
 # STYX irc
 #channel = "#botnick"
-#channel = "#transience"
-#server = "irc.styxnet.tech"
 port = 6667
 count = 0
 
